@@ -1,4 +1,4 @@
-# Project Tesseract
+# smallproject-OCRwithTesseract
 
 Welcome to my small yet powerful project, crafted during my free time! 🚀
 
